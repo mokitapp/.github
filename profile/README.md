@@ -16,12 +16,12 @@
 
 | Section | Description |
 |---------|-------------|
-| [Overview](docs/OVERVIEW.md) | Vision, features, and problems Mokit solves |
-| [Architecture](docs/ARCHITECTURE.md) | Clean Architecture, project structure, technologies |
-| [Development](docs/DEVELOPMENT.md) | Local setup, branching, coding standards |
-| [Usage](docs/USAGE.md) | Endpoints, dynamic variables, request monitoring |
-| [Deployment](docs/DEPLOYMENT.md) | Docker and manual deployment |
-| [Roadmap](docs/ROADMAP.md) | Future plans and known issues |
+| [Overview](https://github.com/mokitapp/mokit-core/docs/OVERVIEW.md) | Vision, features, and problems Mokit solves |
+| [Architecture](https://github.com/mokitapp/mokit-core/docs/ARCHITECTURE.md) | Clean Architecture, project structure, technologies |
+| [Development](https://github.com/mokitapp/mokit-core/docs/DEVELOPMENT.md) | Local setup, branching, coding standards |
+| [Usage](https://github.com/mokitapp/mokit-core/docs/USAGE.md) | Endpoints, dynamic variables, request monitoring |
+| [Deployment](https://github.com/mokitapp/mokit-core/docs/DEPLOYMENT.md) | Docker and manual deployment |
+| [Roadmap](https://github.com/mokitapp/mokit-core/docs/ROADMAP.md) | Future plans and known issues |
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## Contributing
 
-We welcome contributions! Please review our [Development Guide](docs/DEVELOPMENT.md) before starting.
+We welcome contributions! Please review our [Development Guide](https://github.com/mokitapp/mokit-core/docs/DEVELOPMENT.md) before starting.
 
 ---
 
